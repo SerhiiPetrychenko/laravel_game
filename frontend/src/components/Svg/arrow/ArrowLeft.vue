@@ -1,0 +1,7 @@
+<template>
+    <svg width="5" height="10" viewBox="0 0 5 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5.96244e-08 5L5 0L5 10L5.96244e-08 5Z" fill="currentColor"/>
+    </svg>
+</template>
+<script setup>
+</script>
